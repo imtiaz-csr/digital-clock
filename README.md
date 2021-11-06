@@ -4,6 +4,16 @@
 Asynchronous operation in JavaScript and jQuery.
 <br />
 
+<strong>homepage:</strong>
+<br />
+![homepage](https://user-images.githubusercontent.com/58094678/140613027-793e530d-d830-4748-aee4-ad5e77b8512a.jpg)
+<br />
+
+<strong>digital-clock:</strong>
+<br />
+![digital-clock](https://user-images.githubusercontent.com/58094678/140613030-44acec19-baec-48d4-a44a-11c03ba60234.jpg)
+<br />
+
 <strong>Tools and Technologies:</strong> <br />
 
 <ul>
@@ -17,7 +27,8 @@ Asynchronous operation in JavaScript and jQuery.
 
 <strong>To run this clock:</strong> <br />
 
-1. Open index.html file in web browser. 
-2. Switch tab to 'Digital Clock'.
-3. Click the button that says 'Show Real Time'.
-4. Click the 'Close' button to exit.
+1. Clone this repository in your machine by executing this command: git clone https://github.com/imtiaz-csr/digital-clock.git
+2. Open index.html file in web browser. 
+3. Switch tab to 'Asynchronous-operation'.
+4. Click the button that says 'Show Real Time'.
+5. Click the 'Close' button to exit.
